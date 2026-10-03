@@ -1,4 +1,4 @@
-# 🛒 DSCormmerce
+# 🛒 DSCormmerce Module 5 Final Vesion
 
 > Projeto desenvolvido durante o curso **Java Spring Professional** da **DevSuperior**.
 
