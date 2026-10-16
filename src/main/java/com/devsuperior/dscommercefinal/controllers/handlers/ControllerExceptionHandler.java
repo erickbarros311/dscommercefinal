@@ -30,6 +30,6 @@ public class ControllerExceptionHandler {
         return ResponseEntity.status(status).body(err);
     }
 
-    // Se você já tiver outros tratamentos (como ResourceNotFoundException ou MethodArgumentNotValidException),
+    // Outros tratamentos (como ResourceNotFoundException ou MethodArgumentNotValidException),
     // eles também ficam aqui dentro desta mesma classe!
 }
