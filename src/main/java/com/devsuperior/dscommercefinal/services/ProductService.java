@@ -77,7 +77,8 @@ public class ProductService {
         entity.setDescription(dto.getDescription());
         entity.setPrice(dto.getPrice());
         entity.setImgUrl(dto.getImgUrl());
-        
+
+        //limpa a lista e insere as novas categorias adicionadas
         entity.getCategories().clear();
         for (CategoryDTO catDto : dto.getCategories()) {
         	Category cat = new Category();
