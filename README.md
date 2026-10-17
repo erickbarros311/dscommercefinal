@@ -103,7 +103,7 @@ src
 
 ## 📌 Status
 
-🚧 **Projeto em desenvolvimento**.
+🚧 **Projeto Finalizado!**.
 
 Novas funcionalidades serão adicionadas conforme o andamento do curso.
 
