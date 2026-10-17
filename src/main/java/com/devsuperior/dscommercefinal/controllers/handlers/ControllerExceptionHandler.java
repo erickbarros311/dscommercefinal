@@ -14,12 +14,13 @@ import java.time.Instant;
 @ControllerAdvice
 public class ControllerExceptionHandler {
 
-    // Este metodo "escuta" a sua aplicação. Se o OrderController (ou qualquer outro)
+    // Este metodo "escuta" a aplicação. Se o OrderController (ou qualquer outro)
     // deixar escapar uma ForbiddenException, este metodo pega ela antes de ir pro console.
     @ExceptionHandler(ForbiddenException.class)
     public ResponseEntity<CustomErrorDTO> forbidden(ForbiddenException e, HttpServletRequest request) {
         HttpStatus status = HttpStatus.FORBIDDEN; // 403
 
+        // instancia o DTO de erro para capturar a meg de erro
         CustomErrorDTO err = new CustomErrorDTO(
                 Instant.now(),
                 status.value(),

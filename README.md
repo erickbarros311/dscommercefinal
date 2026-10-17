@@ -109,7 +109,7 @@ Novas funcionalidades serão adicionadas conforme o andamento do curso.
 
 ---
 
-## 👨‍💻 Autor - Erick B. Nascimento
+## 👨‍💻 Autor - Prof. Nélio Alves | Aluno: Erick Barros
 
 Projeto desenvolvido para fins de estudo durante o curso **Java Spring Professional**, da **DevSuperior**.
 
