@@ -3,8 +3,8 @@
 > Projeto desenvolvido durante o curso **Java Spring Professional** da **DevSuperior**.
 
 ![Status](https://img.shields.io/badge/status-%20concluido-blue)
-![Java](https://img.shields.io/badge/Java-21-red)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen)
+![Java](https://img.shields.io/badge/Java-25-red)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-4.0.8-brightgreen)
 
 ---
 
@@ -104,8 +104,6 @@ src
 ## 📌 Status
 
 🚧 **Projeto Finalizado!**.
-
-Novas funcionalidades serão adicionadas conforme o andamento do curso.
 
 ---
 
